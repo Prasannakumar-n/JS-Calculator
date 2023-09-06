@@ -56,7 +56,7 @@ body{
     border: 1px solid black;
     height: 60px;
 }
-.ans{
+#ans{
     text-align: end;
     font-size: 30px;
 }
